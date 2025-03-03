@@ -1,0 +1,15 @@
+freertos\timers.o: ..\FreeRtos\timers.c
+freertos\timers.o: D:\software\MKD-KEIL\ARM\ARMCC\Bin\..\include\stdlib.h
+freertos\timers.o: ../FreeRtos/include/FreeRTOS.h
+freertos\timers.o: D:\software\MKD-KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+freertos\timers.o: D:\software\MKD-KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+freertos\timers.o: ../Core/Inc/FreeRTOSConfig.h
+freertos\timers.o: ../FreeRtos/include/projdefs.h
+freertos\timers.o: ../FreeRtos/include/portable.h
+freertos\timers.o: ../FreeRtos/include/deprecated_definitions.h
+freertos\timers.o: ../FreeRtos/portable/RVDS/ARM_CM3/portmacro.h
+freertos\timers.o: ../FreeRtos/include/mpu_wrappers.h
+freertos\timers.o: ../FreeRtos/include/task.h
+freertos\timers.o: ../FreeRtos/include/list.h
+freertos\timers.o: ../FreeRtos/include/queue.h
+freertos\timers.o: ../FreeRtos/include/timers.h

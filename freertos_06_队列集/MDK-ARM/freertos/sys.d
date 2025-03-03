@@ -1,0 +1,15 @@
+freertos\sys.o: ..\SYSTEM\sys\sys.c
+freertos\sys.o: ..\SYSTEM\sys\sys.h
+freertos\sys.o: ../Drivers/CMSIS/Include/core_cm4.h
+freertos\sys.o: D:\software\MKD-KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+freertos\sys.o: ../Drivers/CMSIS/Include/cmsis_version.h
+freertos\sys.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+freertos\sys.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+freertos\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+freertos\sys.o: ../Core/Inc/stm32f1xx_hal_conf.h
+freertos\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+freertos\sys.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+freertos\sys.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+freertos\sys.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+freertos\sys.o: ../Drivers/CMSIS/Include/core_cm3.h
+freertos\sys.o: ../Drivers/CMSIS/Include/cmsis_version.h
