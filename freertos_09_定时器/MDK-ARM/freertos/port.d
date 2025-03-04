@@ -1,0 +1,12 @@
+freertos\port.o: ..\FreeRtos\portable\RVDS\ARM_CM3\port.c
+freertos\port.o: ../FreeRtos/include/FreeRTOS.h
+freertos\port.o: D:\software\MKD-KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+freertos\port.o: D:\software\MKD-KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+freertos\port.o: ../Core/Inc/FreeRTOSConfig.h
+freertos\port.o: ../FreeRtos/include/projdefs.h
+freertos\port.o: ../FreeRtos/include/portable.h
+freertos\port.o: ../FreeRtos/include/deprecated_definitions.h
+freertos\port.o: ../FreeRtos/portable/RVDS/ARM_CM3/portmacro.h
+freertos\port.o: ../FreeRtos/include/mpu_wrappers.h
+freertos\port.o: ../FreeRtos/include/task.h
+freertos\port.o: ../FreeRtos/include/list.h

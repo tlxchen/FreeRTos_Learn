@@ -1,0 +1,13 @@
+freertos\croutine.o: ..\FreeRtos\croutine.c
+freertos\croutine.o: ../FreeRtos/include/FreeRTOS.h
+freertos\croutine.o: D:\software\MKD-KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+freertos\croutine.o: D:\software\MKD-KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+freertos\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+freertos\croutine.o: ../FreeRtos/include/projdefs.h
+freertos\croutine.o: ../FreeRtos/include/portable.h
+freertos\croutine.o: ../FreeRtos/include/deprecated_definitions.h
+freertos\croutine.o: ../FreeRtos/portable/RVDS/ARM_CM3/portmacro.h
+freertos\croutine.o: ../FreeRtos/include/mpu_wrappers.h
+freertos\croutine.o: ../FreeRtos/include/task.h
+freertos\croutine.o: ../FreeRtos/include/list.h
+freertos\croutine.o: ../FreeRtos/include/croutine.h
