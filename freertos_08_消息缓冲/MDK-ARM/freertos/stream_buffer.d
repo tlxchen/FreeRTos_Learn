@@ -1,0 +1,14 @@
+freertos\stream_buffer.o: ..\FreeRtos\stream_buffer.c
+freertos\stream_buffer.o: D:\software\MKD-KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+freertos\stream_buffer.o: D:\software\MKD-KEIL\ARM\ARMCC\Bin\..\include\string.h
+freertos\stream_buffer.o: ../FreeRtos/include/FreeRTOS.h
+freertos\stream_buffer.o: D:\software\MKD-KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+freertos\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+freertos\stream_buffer.o: ../FreeRtos/include/projdefs.h
+freertos\stream_buffer.o: ../FreeRtos/include/portable.h
+freertos\stream_buffer.o: ../FreeRtos/include/deprecated_definitions.h
+freertos\stream_buffer.o: ../FreeRtos/portable/RVDS/ARM_CM3/portmacro.h
+freertos\stream_buffer.o: ../FreeRtos/include/mpu_wrappers.h
+freertos\stream_buffer.o: ../FreeRtos/include/task.h
+freertos\stream_buffer.o: ../FreeRtos/include/list.h
+freertos\stream_buffer.o: ../FreeRtos/include/stream_buffer.h
